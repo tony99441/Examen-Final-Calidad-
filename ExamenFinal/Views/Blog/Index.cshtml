@@ -1,0 +1,75 @@
+﻿<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<form action="/" method="get">
+
+    <input type="text" id="busqueda" name="busqueda" placeholder="Buscar" />
+
+</form>
+
+<a onclick="eliminar('/Blog/CrearNota')" href="#">Crear Nota</a>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-sm-2">
+            Tags
+            <table class="table">
+                @foreach (var item in ViewBag.etiquetas)
+                {
+                    <tr>
+                        <td> <a id="buton" onclick="Crear('/Blog/_index?busqueda=@item.Nombre')" href="#">@item.Nombre</a></td>
+
+                    </tr>
+
+
+                }
+            </table>
+
+        </div>
+        <div id="contenedor" class="col-sm-10">
+
+
+        </div>
+
+    </div>
+
+</div>
+<script>
+    function init() {
+        $.ajax({
+            url: '/Blog/_index?busqueda=' + $('#busqueda').val()
+        }).done(function (tabla) {
+            $('#contenedor').html(tabla)
+        })
+
+    } $('form').on('submit', function (e) {
+        e.preventDefault();
+        init();
+    });
+    init();
+</script>
+<script>
+
+    function reproducir(a) {
+        var url = a;
+        $.get(url, function (respuesta) {
+            $("#contenedor").html(respuesta);
+        });
+        e.preventDefault();
+    }
+</script>
+<script>
+
+
+    function Crear(a) {
+
+        var url = a;
+
+        $.get(url, function (respuesta) {
+
+            $("#contenedor").html(respuesta);
+        });
+        e.preventDefault();
+
+    }
+
+</script>

@@ -1,0 +1,164 @@
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.exe
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csprojAssemblyReference.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfoInputs.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfo.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorAssemblyInfo.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorAssemblyInfo.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.TagHelpers.input.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.TagHelpers.output.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorCoreGenerate.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorTargetAssemblyInfo.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorTargetAssemblyInfo.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\staticwebassets\ExamenFinal.StaticWebAssets.Manifest.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\staticwebassets\ExamenFinal.StaticWebAssets.xml
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.CopyComplete
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.deps.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.dev.json
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.Views.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.Views.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.Views.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.pdb
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.genruntimeconfig.cache
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\_Index.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\CrearNota.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\EditarNota.cshtml.g.cs
+C:\Users\tony9\Desktop\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\DetalleNota.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.exe
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.deps.json
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.json
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.dev.json
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.Views.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.Views.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csprojAssemblyReference.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfoInputs.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfo.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorAssemblyInfo.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorAssemblyInfo.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\staticwebassets\ExamenFinal.StaticWebAssets.Manifest.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\staticwebassets\ExamenFinal.StaticWebAssets.xml
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExamenFinal.styles.css
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.TagHelpers.input.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.TagHelpers.output.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorCoreGenerate.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\CrearNota.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\DetalleNota.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\EditarNota.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Blog\_Index.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorTargetAssemblyInfo.cache
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.RazorTargetAssemblyInfo.cs
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.Views.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.CopyComplete
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.pdb
+C:\upn\tony\final calidad\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.genruntimeconfig.cache
